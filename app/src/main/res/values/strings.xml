@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PushNotificationsPOC</string>
+    <string name="show_notifications_button">Show Notifications</string>
+</resources>
